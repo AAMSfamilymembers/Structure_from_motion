@@ -12,6 +12,8 @@ Different tracking and feature detection were used :
 1. KLT tracker with goodfeaturestotrack
 2. KLT tracker with SIFT/ORB .
 
+Kindly run this post_tracking file in face_track with the required arguments, in matplotlib after rotating the desired output could be observed.
+
 # Team Members
 1. Abhay Khandelwal
 2. Kalpit Jangid
