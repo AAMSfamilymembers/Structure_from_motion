@@ -1,6 +1,6 @@
 # Structure_From_Motion
 
-#Overview
+# Overview
 
 Structure from motion is a photogrammetric range imaging technique for estimating three-dimensional structures from two-dimensional image sequences that may be coupled with local motion signals.
 
