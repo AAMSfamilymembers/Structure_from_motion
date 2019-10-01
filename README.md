@@ -14,7 +14,7 @@ Different tracking and feature detection were used :
 
 Kindly run this post_tracking file in face_track with the required arguments, in matplotlib after rotating the desired output could be observed.
 
-# Face_Reconstruction:
+Face_Reconstruction:
 To track facial landmarks, dlib library was used and tomasi-kanade factorization was applied on created measurement matrix.
 
 # Team Members
